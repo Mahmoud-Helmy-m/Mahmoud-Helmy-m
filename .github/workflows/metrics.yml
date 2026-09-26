@@ -24,7 +24,7 @@ jobs:
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Kud0o
+          user: Mahmoud-Helmy-m
           committer_branch: ${{ github.ref_name }}
           filename: metrics.light.svg
           config_timezone: Africa/Cairo
@@ -39,7 +39,7 @@ jobs:
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Kud0o
+          user: Mahmoud-Helmy-m
           committer_branch: ${{ github.ref_name }}
           filename: metrics.dark.svg
           config_timezone: Africa/Cairo
@@ -58,7 +58,7 @@ jobs:
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Kud0o
+          user: Mahmoud-Helmy-m
           committer_branch: ${{ github.ref_name }}
           filename: metrics.calendar.light.svg
           config_timezone: Africa/Cairo
@@ -75,7 +75,7 @@ jobs:
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Kud0o
+          user: Mahmoud-Helmy-m
           committer_branch: ${{ github.ref_name }}
           filename: metrics.calendar.dark.svg
           config_timezone: Africa/Cairo
@@ -105,7 +105,7 @@ jobs:
       - name: Build language cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          METRICS_USER: Kud0o
+          METRICS_USER: Mahmoud-Helmy-m
         run: node .github/scripts/languages.mjs
 
       - name: Commit if changed
@@ -134,7 +134,7 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Kud0o
+          github_user_name: Mahmoud-Helmy-m
           outputs: |
             snake.light.svg?palette=github-light
             snake.dark.svg?palette=github-dark

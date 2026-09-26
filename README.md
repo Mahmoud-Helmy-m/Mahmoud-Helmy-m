@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mahmoud Helmy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/Kud0o">
+  <a href="https://github.com/Mahmoud-Helmy-m">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=45&lines=Senior+Software+Engineer;Computer+Science+Graduate;Competitive+Programmer;Mobile+%2B+Backend+%2B+AI+Tooling;Systems+that+ship+and+stay+shipped">
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=560&height=45&lines=Senior+Software+Engineer;Computer+Science+Graduate;Competitive+Programmer;Mobile+%2B+Backend+%2B+AI+Tooling;Systems+that+ship+and+stay+shipped">
@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kud0o&label=Profile%20views&color=0969da&style=flat-square" alt="Profile views">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKud0o&query=public_repos&label=Public%20repos&style=flat-square&logo=github&labelColor=6e7681&color=0969da" alt="Public repos">
+  <img src="https://komarev.com/ghpvc/?username=mahmoud-helmy-m&label=Profile%20views&color=0969da&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMahmoud-Helmy-m&query=public_repos&label=Public%20repos&style=flat-square&logo=github&labelColor=6e7681&color=0969da" alt="Public repos">
   <img src="https://img.shields.io/badge/Focus-AI%20developer%20tooling-0969da?style=flat-square&labelColor=6e7681" alt="Focus">
   <img src="https://img.shields.io/badge/Based%20in-Egypt-0969da?style=flat-square&labelColor=6e7681" alt="Location">
 </p>
@@ -43,14 +43,14 @@ Senior Software Engineer with a computer science background and a competitive pr
 
 | Project | What it is | Stack |
 |---|---|---|
-| [ai-usage-inspector](https://github.com/Kud0o/ai-usage-inspector) | Zero-dependency Claude Code hook that records every prompt and tracks token usage and cost | JavaScript |
-| [delegation-management](https://github.com/Kud0o/delegation-management) | Claude Code skill that coordinates two local coding agents over one task queue | Python |
-| [Notes](https://github.com/Kud0o/Notes) | Notes app with nested sections and selective PDF export | Flutter · Dart |
-| [Mobile-Prediction_ML](https://github.com/Kud0o/Mobile-Prediction_ML) | Mobile app success prediction from store metadata | Python · pandas |
-| [Graphical-Geometry-Algorithms](https://github.com/Kud0o/Graphical-Geometry-Algorithms) | Points, lines, polygons and their intersections, with a visual front end | C# |
-| [Cores-Parallel-Processing-KMeans](https://github.com/Kud0o/Cores-Parallel-Processing-KMeans) | K-Means clustering parallelised across cores | Python |
-| [Qr-Code-Detection-Matlab](https://github.com/Kud0o/Qr-Code-Detection-Matlab) | QR detection, clipping, rotation and cropping from images | MATLAB · OpenCV |
-| [Search_Engine](https://github.com/Kud0o/Search_Engine) | Indexing and ranked retrieval engine | C++ |
+| [ai-usage-inspector](https://github.com/Mahmoud-Helmy-m/ai-usage-inspector) | Zero-dependency Claude Code hook that records every prompt and tracks token usage and cost | JavaScript |
+| [delegation-management](https://github.com/Mahmoud-Helmy-m/delegation-management) | Claude Code skill that coordinates two local coding agents over one task queue | Python |
+| [Notes](https://github.com/Mahmoud-Helmy-m/Notes) | Notes app with nested sections and selective PDF export | Flutter · Dart |
+| [Mobile-Prediction_ML](https://github.com/Mahmoud-Helmy-m/Mobile-Prediction_ML) | Mobile app success prediction from store metadata | Python · pandas |
+| [Graphical-Geometry-Algorithms](https://github.com/Mahmoud-Helmy-m/Graphical-Geometry-Algorithms) | Points, lines, polygons and their intersections, with a visual front end | C# |
+| [Cores-Parallel-Processing-KMeans](https://github.com/Mahmoud-Helmy-m/Cores-Parallel-Processing-KMeans) | K-Means clustering parallelised across cores | Python |
+| [Qr-Code-Detection-Matlab](https://github.com/Mahmoud-Helmy-m/Qr-Code-Detection-Matlab) | QR detection, clipping, rotation and cropping from images | MATLAB · OpenCV |
+| [Search_Engine](https://github.com/Mahmoud-Helmy-m/Search_Engine) | Indexing and ranked retrieval engine | C++ |
 
 ---
 

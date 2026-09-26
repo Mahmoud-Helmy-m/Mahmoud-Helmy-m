@@ -3,7 +3,7 @@
 // for this account (and its repositories section reports 1 repo, when the same
 // query returns 26). Run: GITHUB_TOKEN=... node .github/scripts/languages.mjs
 
-const USER = process.env.METRICS_USER ?? "Kud0o";
+const USER = process.env.METRICS_USER ?? "Mahmoud-Helmy-m";
 const TOKEN = process.env.GITHUB_TOKEN;
 const TOP = 8;
 // Categorical slots from the validated theme. Both modes pass every hard gate on

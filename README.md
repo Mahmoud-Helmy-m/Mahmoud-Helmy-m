@@ -35,7 +35,6 @@ Senior Software Engineer with a computer science background and a competitive pr
 - 💬 **Ask me about** — Flutter & Dart architecture, .NET backends, API integration, algorithms and problem solving.
 - 🧩 **Competitive programming** — Codeforces as [`izanagi_0`](https://codeforces.com/profile/izanagi_0); data structures, algorithms, OOP.
 - ⚡ **Interested in** — agentic developer tooling, performance work, and clean domain modeling.
-- 📫 **Reach me** — [Mail](mailto:mahmoud98398@gmail.com) · [Resume](https://drive.google.com/file/d/1VAGJxn8pUv1835NQ8yWxu7qmZi1enr5V/view?usp=sharing)
 
 ---
 
@@ -43,14 +42,14 @@ Senior Software Engineer with a computer science background and a competitive pr
 
 | Project | What it is | Stack |
 |---|---|---|
-| [ai-usage-inspector](https://github.com/Mahmoud-Helmy-m/ai-usage-inspector) | Zero-dependency Claude Code hook that records every prompt and tracks token usage and cost | JavaScript |
+| [ai-usage-inspector](https://github.com/Mahmoud-Helmy-m/ai-usage-inspector) | Records every prompt's tokens, model, context % and cost across seven coding agents — Claude Code, Codex, Cursor, OpenCode, Cline, Roo Code, Kilo Code — in a local zero-dependency dashboard | JavaScript |
 | [delegation-management](https://github.com/Mahmoud-Helmy-m/delegation-management) | Claude Code skill that coordinates two local coding agents over one task queue | Python |
 | [Notes](https://github.com/Mahmoud-Helmy-m/Notes) | Notes app with nested sections and selective PDF export | Flutter · Dart |
 | [Mobile-Prediction_ML](https://github.com/Mahmoud-Helmy-m/Mobile-Prediction_ML) | Mobile app success prediction from store metadata | Python · pandas |
 | [Graphical-Geometry-Algorithms](https://github.com/Mahmoud-Helmy-m/Graphical-Geometry-Algorithms) | Points, lines, polygons and their intersections, with a visual front end | C# |
 | [Cores-Parallel-Processing-KMeans](https://github.com/Mahmoud-Helmy-m/Cores-Parallel-Processing-KMeans) | K-Means clustering parallelised across cores | Python |
-| [Qr-Code-Detection-Matlab](https://github.com/Mahmoud-Helmy-m/Qr-Code-Detection-Matlab) | QR detection, clipping, rotation and cropping from images | MATLAB · OpenCV |
-| [Search_Engine](https://github.com/Mahmoud-Helmy-m/Search_Engine) | Indexing and ranked retrieval engine | C++ |
+| [Qr-Code-Detection-Matlab](https://github.com/Mahmoud-Helmy-m/Qr-Code-Detection-Matlab) | QR detection, clipping, rotation and cropping from images | MATLAB · Image Processing Toolbox |
+| [Search_Engine](https://github.com/Mahmoud-Helmy-m/Search_Engine) | Inverted index over a file corpus with multi-word query intersection | C++ |
 
 ---
 
@@ -109,6 +108,7 @@ Senior Software Engineer with a computer science background and a competitive pr
     <img alt="Most used languages" src="languages.light.svg" width="100%">
   </picture>
 </p>
+<p align="center"><sub>Language metrics reflect the languages in my public code, not experience or skill level.</sub></p>
 
 <p align="center">
   <picture>
@@ -132,5 +132,3 @@ Senior Software Engineer with a computer science background and a competitive pr
   card service runs out of quota. Regenerated daily; run the workflow manually from the
   Actions tab to refresh on demand.
 -->
-
-<p align="center"><sub>Language metrics reflect the languages in my public code, not experience or skill level.</sub></p>

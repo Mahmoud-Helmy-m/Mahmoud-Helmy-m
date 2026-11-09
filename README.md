@@ -44,7 +44,6 @@ Senior Software Engineer with a computer science background and a competitive pr
 |---|---|---|
 | [DroidSuite](https://github.com/Mahmoud-Helmy-m/DroidSuite) | See and control an Android phone from a browser, transfer files, and install and debug builds over Wi-Fi, with no cable or account; published on npm | Node.js |
 | [ai-usage-inspector](https://github.com/Mahmoud-Helmy-m/ai-usage-inspector) | Records every prompt's tokens, model, context % and cost across seven coding agents — Claude Code, Codex, Cursor, OpenCode, Cline, Roo Code, Kilo Code — in a local zero-dependency dashboard | JavaScript |
-| [delegation-management](https://github.com/Mahmoud-Helmy-m/delegation-management) | Claude Code skill that coordinates two local coding agents over one task queue | Python |
 | [Notes](https://github.com/Mahmoud-Helmy-m/Notes) | Notes app with nested sections and selective PDF export | Flutter · Dart |
 | [Mobile-Prediction_ML](https://github.com/Mahmoud-Helmy-m/Mobile-Prediction_ML) | Mobile app success prediction from store metadata | Python · pandas |
 | [Graphical-Geometry-Algorithms](https://github.com/Mahmoud-Helmy-m/Graphical-Geometry-Algorithms) | Points, lines, polygons and their intersections, with a visual front end | C# |
